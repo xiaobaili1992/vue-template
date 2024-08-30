@@ -8,7 +8,6 @@
   "jsxSingleQuote": true,
   "trailingComma": "all",
   "bracketSpacing": true,
-  "jsxBracketSameLine": true,
   "arrowParens": "always",
   "requirePragma": false,
   "insertPragma": false,
@@ -16,8 +15,5 @@
   "htmlWhitespaceSensitivity": "ignore",
   "vueIndentScriptAndStyle": false,
   "endOfLine": "lf",
-  "embeddedLanguageFormatting": "auto",
-  "parserOptions": {
-    "ecmaVersion": 2020
-  }
+  "embeddedLanguageFormatting": "auto"
 }
